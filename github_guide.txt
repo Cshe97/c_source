@@ -1,0 +1,25 @@
+1. github에 repository 생성
+
+2. 로컬파일에 repository에 연결할 폴더 생성
+
+3. cd 폴더
+
+4. git init (.git 폴더 생성)
+
+5. git remote add origin https://github.com/Cshe97/c_source.git
+
+6. git config --global user.name "Cshe97"
+
+	git config --global user.email "hoho0955csh@gmail.com"
+
+	git config --global core.editor gedit
+
+7. git add --all
+
+8. git commit
+
+9. git push origin --all
+
+	Username for 'https://github.com': 유저이름
+
+	Password for 'https://Cshe97@github.com': 발행한 토큰
